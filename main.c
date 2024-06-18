@@ -5,6 +5,13 @@
 //  Created by Vittorio Piotti on 25/04/23.
 //
 
+/*
+ * Algoritmo Dijkstra C v1.0.0 (https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C/blob/main/LICENSE.md)
+ */
+
+
 
 #include <stdio.h>
 #include <string.h>
