@@ -4,3 +4,6 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 |Destra|Sinistra|Entrambe|
 |---|---|---|
 
+
+> [!NOTE]  
+> Tra due Nodi possono esistere massimo 2 archi Direzionati in modo Inverso
