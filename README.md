@@ -5,5 +5,6 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 |---|---|---|
 
 
-> [!CAUTION]  
+> [!CAUTION]
+> Nessun controllo per:
 > 'Fatal Error': per **2 Nodi** possono esistere **Massimo 2 Archi di Direzione Diversa**
