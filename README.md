@@ -20,7 +20,7 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 
 ## Screenshot
 
-<img src="https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C/blob/main/screenshot.png"/>
+<img src="https://github.com/vittorioPiotti/Algoritmo-Dijkstra-C/blob/main/snap.png"/>
 
 ## Licenze
 
