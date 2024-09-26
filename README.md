@@ -32,4 +32,4 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [DijkstraAlgorithm](https://github.com/vittorioPiotti/DijkstraAlgorithm-C) | [v1.0.0](https://github.com/vittorioPiotti/DijkstraAlgorithm-C/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) |
+| [DijkstraAlgorithm](https://github.com/vittorioPiotti/DijkstraAlgorithm-C) | [v1.0.0](https://github.com/vittorioPiotti/DijkstraAlgorithm-C/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/DijkstraAlgorithm-C/blob/main/LICENSE.md) |
