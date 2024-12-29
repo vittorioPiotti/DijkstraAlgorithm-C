@@ -7,7 +7,7 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 
