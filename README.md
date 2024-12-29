@@ -14,10 +14,7 @@ Pseudocodifica in C dell'algoritmo di Dijkstra con Esercizio di Default e Calcol
 > [!CAUTION] 
 > `Fatal Error`: tra **2 Nodi** non ci devono essere più di un di **Massimo 2 Archi di Direzione Diversa**
 
-#### Support Me
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
+---
 
 ## Screenshot
 
